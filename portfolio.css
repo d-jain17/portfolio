@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    height: 600px;
+    width: 700px;
+    background-color: rgb(65, 61, 61);
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.mini{
+    display: flex;
+    height: 400px;
+    width: 700px;
+    background-color: rgb(78, 76, 76);
+
+}
+.rect{
+    display: flex;
+    height: 400px;
+    width: 150px;
+    background-color: rgb(174, 138, 190);
+    margin-left: 400px;
+}
