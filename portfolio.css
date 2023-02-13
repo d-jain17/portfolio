@@ -1,22 +1,86 @@
 .main{
-    display: flex;
     height: 600px;
     width: 700px;
-    background-color: rgb(65, 61, 61);
+    background-color: rgb(49, 47, 47);
     margin-left: 10px;
     margin-top: 50px;
+}
+.project_box{
+    margin-top: -630px;
+    margin-left: 725px;
+    height: 600px;
+    width: 500px;
+    background-color: rgb(49, 47, 47);
+}
+.project_head{
+    background-color: rgb(70, 67, 67);
+    width: 500px;
+    height: 90px;
 }
 .mini{
     display: flex;
     height: 400px;
     width: 700px;
-    background-color: rgb(78, 76, 76);
+    background-color: rgb(70, 67, 67);
 
 }
 .rect{
     display: flex;
     height: 400px;
     width: 150px;
-    background-color: rgb(174, 138, 190);
-    margin-left: 400px;
+    background-color: rgb(238, 228, 114);
+
+}
+.name{
+    font-family:'Playfair Display', serif;
+    color: white;
+    font-size: xx-large;
+  align-items: center;
+}
+.skills{
+    color: white;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-left: 5px;
+}
+.skill_list{
+    font-weight: normal;
+    line-height: 25px;
+}
+.education{
+color: white;
+}
+.white_rect{
+    display: flex;
+    height: 125px;
+    width: 150px;
+    background-color: white;
+    margin-top: 200px;
+}
+.contact_list{
+    height: 20px;
+    width: 20px;
+    margin-bottom: 10px;
+}
+.contacts{
+    margin-left: 5px;
+}
+.project_list{
+    margin-left: 5px;
+    color: white;
+    font-size: large;
+}
+.links{
+    color:gray;
+    margin-left: 30px;
+    font-size: medium;
+
+}
+.exp_box{
+    height: 500px;
+    width: 1218px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color:rgb(49, 47, 47) ;
 }
