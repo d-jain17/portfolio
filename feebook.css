@@ -1,0 +1,113 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.mains{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.dashboard{
+    font-family:Helvetica, sans-serif;
+    color: gray;
+    margin-top: 130px;
+    margin-left: 20px;
+    line-height: 30px;
+    background-color: #FFF7E7;
+}
+.main_content{
+   
+    font-family:Helvetica, sans-serif;
+    color: gray;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.dabba{
+    height: 500px;
+    background-color: #FFF7E7;
+    width: 200px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.021);
+    margin-top: 130px;
+}
+.main_dabba{
+    height: 500px;
+    background-color: #FFF7E7;
+    width: 1100px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.021);
+    margin-top: 110px;
+    margin-left: 15px;
+}
+.blue{
+    height: 80px;
+    width: 300px;
+    background-color: rgb(26, 26, 139);
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+}
+.green{
+    height: 80px;
+    width: 300px;
+    background-color: green;
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+    margin-left: 20px;
+}
+.orange{
+    height: 80px;
+    width: 300px;
+    background-color: orange;
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+    margin-left: 20px;
+}
+.red{
+    height: 80px;
+    width: 300px;
+    background-color: rgb(221, 53, 53);
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    border-radius: 8px;
+    color: white;;
+}
+.recent{
+    font-family: Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.recent_table{
+    border: 1px solid black;
+    margin-top: 50px;
+}
+.fee_heading{
+    font-family: Helvetica, sans-serif;
+    font-size: larger;
+    margin-top: 40px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.search_text{
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.search_dabba{
+    height: 80px;
+    width: 990px;
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: 5px;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: row;
+}
