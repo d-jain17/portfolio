@@ -121,3 +121,15 @@
     margin-left: 20px;
     font-weight: bolder;
 }
+.back_box{
+    height: 1000px;
+    width: 1000px;
+    margin-left: 140px;
+    background-color: rgb(178, 235, 243);
+    box-shadow: 15px 15px 15px 15px rgba(0, 0, 0, 0.24);
+}
+.sch_text{
+margin-left: 340px;
+color: rgba(0, 0, 99, 0.788);
+font-size: xx-large;
+}
